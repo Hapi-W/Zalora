@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Aktif/diklik = hitam -->
+    <item android:state_checked="true" android:color="#FF000000" />
+    <!-- Saat ditekan/hover = hitam -->
+    <item android:state_pressed="true" android:color="#FF000000" />
+    <!-- Default = putih -->
+    <item android:color="#FFFFFFFF" />
+</selector>

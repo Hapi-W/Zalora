@@ -11,13 +11,13 @@
 
     <item android:id="@+id/tas"
         android:title="Tas"
-        android:icon="@drawable/icon_live"/>
+        android:icon="@drawable/icon_tas"/>
 
     <item android:id="@+id/whishlist"
         android:title="Whishlist"
-        android:icon="@drawable/icon_notification"/>
+        android:icon="@drawable/icon_wishlist"/>
 
     <item android:id="@+id/akunSaya"
         android:title="Akun Saya"
-        android:icon="@drawable/icon_person"/>
+        android:icon="@drawable/octicon_person_24"/>
 </menu>
